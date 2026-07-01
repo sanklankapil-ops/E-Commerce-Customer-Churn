@@ -141,6 +141,58 @@ The project includes an interactive CRM Dashboard developed using **Gradio**.
 
 ---
 
+# 📸 CRM Dashboard Screenshots
+
+## Dashboard
+
+![Dashboard 1](images/dashboard_1.png)
+
+![Dashboard 2](images/dashboard_2.png)
+
+---
+
+## Prediction Result
+
+![Prediction Result 1](images/prediction_result_1.png)
+
+![Prediction Result 2](images/prediction_result_2.png)
+
+---
+
+## All Customers
+
+![All Customers 1](images/all_customers_1.png)
+
+![All Customers 2](images/all_customers_2.png)
+
+---
+
+## Search by Customer ID
+
+![Search by ID](images/search_by_id.png)
+
+---
+
+## Customer Filters
+
+![Filters](images/filters.png)
+
+---
+
+## Analytics Graphs
+
+### Satisfaction Score
+
+![Graph 1](images/graph_1.png)
+
+### Order Count
+
+![Graph 2](images/graph_2.png)
+
+### Churn Probability
+
+![Graph 3](images/graph_3.png)
+
 # 📈 Important Features Affecting Churn
 
 The trained model identified the following features as highly influential:
@@ -175,17 +227,23 @@ The trained model identified the following features as highly influential:
 
 # 📂 Repository Structure
 
-```
 E-Commerce-Customer-Churn/
 │
+├── Customer_Churn_Prediction.ipynb
 ├── E_comm.xlsx
-├── Untitled6.ipynb
 ├── README.md
-├── Model Files
-├── Label Encoder Files
-├── Customer Database
-└── Dashboard
-```
+├── images/
+│   ├── dashboard_1.png
+│   ├── dashboard_2.png
+│   ├── prediction_result_1.png
+│   ├── prediction_result_2.png
+│   ├── all_customers_1.png
+│   ├── all_customers_2.png
+│   ├── filters.png
+│   ├── search_by_id.png
+│   ├── graph_1.png
+│   ├── graph_2.png
+│   └── graph_3.png
 
 ---
 
